@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/XshubhamG/NFT-preview-page.git)
+- Live Site URL: [Netlify](https://wondrous-hummingbird-dde71d.netlify.app)
 
 ## My process
 
